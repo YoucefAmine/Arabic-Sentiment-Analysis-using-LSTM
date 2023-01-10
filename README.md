@@ -1,1 +1,1 @@
-# Arabic-Sentiment-Analysis-using-LSTM
+# Arabic Sentiment Analysis and Text Classification (Using LSTM)
