@@ -46,4 +46,3 @@ This model is a combination of an embedding layer with a 100 LSTM layer with a 0
 | **ArSAS** | 75%       | 67%    | 71%      | `71.57%`     |
 | **LABR**  | 89%       | 89%    | 89%      | `89.18%`     |
 | **HARD**  | 94%       | 94%    | 94%      | `94.45%`     |
-F
