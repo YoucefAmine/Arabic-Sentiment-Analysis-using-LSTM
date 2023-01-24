@@ -36,7 +36,7 @@ Sentiment Analysis is to build machine learning models that can determine the to
 | Number of Epochs | 20    |
 
 - ### Model:
-This model is a combination of an embedding layer with a 100 LSTM layer with a 0.2 dropout rate and a classification layer. The architecture used is shown below
+This model is a combination of an embedding layer with a 100 LSTM layer with a 0.2 dropout rate and a classification layer. The architecture used is shown below.
 
 ![lstm architecture](https://user-images.githubusercontent.com/45196964/214370812-47088988-5999-4120-bf80-a77b21ed9bb7.png)
 
